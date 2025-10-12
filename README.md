@@ -33,207 +33,85 @@ const vishwa = {
     },
     funFact: "I love solving complex problems and turning coffee into code ☕➡️💻"
 };
-```
+🔭 Currently working on Real-time Applications with Socket.io
 
-- 🔭 Currently working on **Real-time Applications with Socket.io**
-- 🌱 Learning **Docker, AWS Cloud Architecture & Microservices**
-- 💼 Open to **Internship & Full-Time Opportunities**
-- 📫 Reach me at **ekdvsampath@gmail.com**
-- ⚡ Fun fact: **I build full-stack apps faster than I finish my coffee!**
+🌱 Learning Docker, AWS Cloud Architecture & Microservices
 
----
+💼 Open to Internship & Full-Time Opportunities
 
-## 🛠️ Tech Stack
+📫 Reach me at ekdvsampath@gmail.com
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-</p>
+⚡ Fun fact: I build full-stack apps faster than I finish my coffee!
 
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-</p>
-
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
-</p>
-
-### Databases & Cloud
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 Online Shopping Center
-**MERN Stack + Socket.io**
+🛠️ Tech Stack
+Languages
+<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> </p>
+Frontend Development
+<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </p>
+Backend Development
+<p> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/> </p>
+Databases & Cloud
+<p> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </p>
+Tools & Technologies
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> </p>
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🛒 Online Shopping Center
+MERN Stack + Socket.io
 
 Full-stack e-commerce platform with real-time order tracking, JWT authentication, and secure payment integration.
+Tech: MongoDB • Express • React • Node.js • Socket.io
 
-**Tech:** MongoDB • Express • React • Node.js • Socket.io
-
-<a href="https://online-shopping-site-frontend.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-FF4088?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-
-</td>
-<td width="50%">
-
-### 💬 Social Chat Application
-**MERN Stack + Real-time Messaging**
+<a href="https://online-shopping-site-frontend.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Live_Demo-FF4088?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </td> <td width="50%" valign="top">
+💬 Social Chat Application
+MERN Stack + Real-time Messaging
 
 Real-time chat app with group messaging, media uploads, OTP authentication, and push notifications.
+Tech: React • Node.js • Socket.io • Cloudinary • JWT
 
-**Tech:** React • Node.js • Socket.io • Cloudinary • JWT
+<a href="https://github.com/Ekdvs" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <td width="50%" valign="top">
+🌍 The Ceylon Traveler
+React + Spring Boot + MongoDB
 
-<a href="https://github.com/Ekdvs" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+Travel planning platform with booking, payments, and tour management.
+Tech: Spring Boot • React • MongoDB • REST API
 
-</td>
-</tr>
+<a href="https://ceylon-traveler.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Live_Demo-FF4088?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </td> <td width="50%" valign="top">
+☁️ Weather Forecast App
+React + TypeScript + API Integration
 
-<tr>
-<td width="50%">
+Real-time weather updates with responsive UI and OpenWeather API.
+Tech: React • TypeScript • REST API • Netlify
 
-### 🌍 The Ceylon Traveler
-**React + Spring Boot + MongoDB**
+<a href="https://ekdvs-weather-app.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Live_Demo-FF4088?style=for-the-badge&logo=netlify&logoColor=white"/> </a> </td> </tr> </table> <p align="center"> <a href="https://ekdvs.github.io/Portfolio/"> <img src="https://img.shields.io/badge/View_More_Projects-2962FF?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </p>
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ekdvs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekdvs&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekdvs&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ekdvs&theme=tokyonight&no-frame=true&row=1&column=7"/> </p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekdvs&theme=tokyo-night&hide_border=true&area=true"/> </p>
+🎓 Education & Certifications
+🎓 B.Sc. in Physical Sciences — University of Kelaniya, Sri Lanka
+Majors: Computer Science, Mathematics, Chemistry | GPA: 3.13 / 4.0
 
-Travel planning platform with package booking, payment gateway integration, and tour management system.
+📜 Certifications:
 
-**Tech:** Spring Boot • React • MongoDB • REST API
+✅ Full Stack Developer — DP Education IT Campus
 
-<a href="https://ceylon-travelernetlifyapp.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-FF4088?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
+✅ Java Programming — Simplilearn
 
-</td>
-<td width="50%">
+🔄 AWS Cloud Practitioner — Coursera (Ongoing)
 
-### ☁️ Weather Forecast App
-**React + TypeScript + API Integration**
+💼 Professional Experience
+Full Stack Developer Intern
+Building scalable web applications with MERN Stack & Spring Boot.
 
-Real-time weather updates with responsive UI and OpenWeather API integration.
+🔹 Developed 5+ production-ready full-stack applications
 
-**Tech:** React • TypeScript • REST API • Netlify
+🔹 Implemented real-time features using Socket.io & WebSockets
 
-<a href="https://ekdvs-wearther-apps.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-FF4088?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
-</a>
+🔹 Designed RESTful APIs with JWT authentication
 
-</td>
-</tr>
-</table>
+🔹 Deployed applications on Vercel, Netlify & Render
 
-<p align="center">
-  <a href="https://ekdvs.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/View_More_Projects-2962FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View More"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ekdvs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekdvs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekdvs&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ekdvs&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekdvs&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🎓 Education & Certifications
-
-🎓 **B.Sc. in Physical Sciences** - University of Kelaniya, Sri Lanka  
-   *Major: Computer Science, Mathematics, Chemistry | GPA: 3.13/4.0*
-
-📜 **Certifications:**
-- ✅ Full Stack Developer - DP Education IT Campus
-- ✅ Java Programming - Simplilearn
-- 🔄 AWS Cloud Practitioner - Coursera (Ongoing)
-
----
-
-## 💼 Professional Experience
-
-**Full Stack Developer Intern**  
-*Building scalable web applications with MERN Stack & Spring Boot*
-
-- 🔹 Developed 5+ production-ready full-stack applications
-- 🔹 Implemented real-time features using Socket.io & WebSockets
-- 🔹 Designed RESTful APIs with JWT authentication
-- 🔹 Deployed applications on Vercel, Netlify & Render
-
----
-
-## 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/vishwa-sampath-110b3b25b">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://ekdvs.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:ekdvsampath@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</p>
-
-<p align="center">
-  <b>⭐ From <a href="https://github.com/Ekdvs">Ekdvs</a> with ❤️</b>
-</p>
+🤝 Let's Connect!
+<p align="center"> <a href="https://linkedin.com/in/vishwa-sampath-110b3b25b"> <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://ekdvs.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="mailto:ekdvsampath@gmail.com"> <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> <p align="center"> <b>⭐ From <a href="https://github.com/Ekdvs">Ekdvs</a> with ❤️</b> </p> ```
