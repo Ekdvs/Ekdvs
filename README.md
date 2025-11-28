@@ -229,6 +229,9 @@ Real-time weather updates with responsive UI and OpenWeather API integration.
 </p>
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ekdvs&label=Profile%20views&color=0e75b6&style=flat" alt="vishwasampath" />
+</p>
 <p align="center">
 
   <!-- Fast Profile Views -->
