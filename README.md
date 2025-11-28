@@ -240,5 +240,19 @@ Real-time weather updates with responsive UI and OpenWeather API integration.
 </p>
 
 <p align="center">
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=ekdvs&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+
+  <!-- Visitors -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ekdvs.ekdvs" alt="Visitors" />
+
+  <!-- Hits -->
+  <img src="https://hits.sh/ekdvs.svg?style=flat-square" alt="Hits" />
+
+</p>
+
+
+<p align="center">
   <b>⭐ From <a href="https://github.com/Ekdvs">Ekdvs</a> with ❤️</b>
 </p>
