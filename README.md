@@ -229,13 +229,12 @@ Real-time weather updates with responsive UI and OpenWeather API integration.
 </p>
 
 ---
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ekdvs&label=Profile%20views&color=0e75b6&style=flat" alt="vishwasampath" />
-</p>
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ekdvs&label=Profile%20views&color=0e75b6&style=flat" />
 
-  <!-- Fast Profile Views -->
-  <img src="https://img.shields.io/endpoint?url=https://hits.sh/ekdvs.json&style=flat-square" alt="Profile Views" />
+
+  <!-- Fast Profile Views (Correct Working SVG) -->
+  <img src="https://hits.sh/ekdvs.svg?style=flat-square&label=Profile%20Views" alt="Profile Views" />
 
   <!-- Visitors -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ekdvs.ekdvs" alt="Visitors" />
@@ -244,6 +243,7 @@ Real-time weather updates with responsive UI and OpenWeather API integration.
   <img src="https://hits.sh/ekdvs.svg?style=flat-square" alt="Hits" />
 
 </p>
+
 
 ---
 
