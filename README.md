@@ -230,10 +230,10 @@ const vishwa: Developer = {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ekdvs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=7C3AED&icon_color=00D4FF&text_color=ffffff" height="180"/>
+      <img src="https://github-readme-stats-one-wine-55.vercel.app/api?username=Ekdvs&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekdvs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" height="180"/>
+      <img src="https://github-readme-stats-one-wine-55.vercel.app/api/top-langs/?username=Ekdvs&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
     </td>
   </tr>
 </table>
