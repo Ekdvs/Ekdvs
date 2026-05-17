@@ -19,11 +19,11 @@
 <br/>
 
 <!-- Profile Counters -->
-<img src="https://komarev.com/ghpvc/?username=Ekdvs&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Ekdvs?label=Followers&style=flat-square&color=00D4FF)
-&nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/Ekdvs?style=flat-square&color=FFD700&label=Total+Stars)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Ekdvs&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Ekdvs?label=Followers&style=flat-square&color=00D4FF" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Ekdvs?style=flat-square&color=FFD700&label=Total Stars"/>
+</p>
 
 </div>
 
