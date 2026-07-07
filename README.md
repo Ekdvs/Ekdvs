@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&height=220&section=header&text=Vishwa%20Sampath&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Problem%20Solver&descAlignY=62&descSize=16&animation=scaleIn&stroke=7C3AED&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&height=220&section=header&text=Vishwa%20Sampath&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Engineer%20%7C%20Problem%20Solver&descAlignY=62&descSize=16&animation=scaleIn&stroke=7C3AED&strokeWidth=2" width="100%"/>
 
 <br/>
 
 <!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=700&lines=🚀+Building+Scalable+Full-Stack+Applications;☁️+AWS+Certified+Cloud+Practitioner+(In+Progress);⚡+Spring+Boot+%7C+MERN+%7C+Next.js+%7C+TypeScript;🐳+Docker+%7C+Kubernetes+%7C+Microservices;🎯+Turning+Bold+Ideas+into+Production-Ready+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=750&lines=🚀+Building+Scalable+Full-Stack+Applications;☁️+AWS+Certified+Cloud+Practitioner;🐳+Docker+%7C+Kubernetes+%7C+Jenkins+%7C+CI%2FCD;⚡+Spring+Boot+%7C+MERN+%7C+Next.js+%7C+TypeScript;📊+MLOps+%7C+MLflow+%7C+DVC+Pipelines;🎯+Turning+Bold+Ideas+into+Production-Ready+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,9 +21,7 @@
 <!-- Profile Counters -->
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Ekdvs&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
-
 <img src="https://img.shields.io/github/followers/Ekdvs?label=Followers&style=flat-square&color=00D4FF" alt="Followers"/>
-
 <img src="https://img.shields.io/github/stars/Ekdvs?style=flat-square&color=FFD700&label=Total+Stars" alt="Total Stars"/>
 </p>
 
@@ -43,6 +41,8 @@ const vishwa: Developer = {
   pronouns:  "He/Him",
   location:  "Opanayaka, Sri Lanka 🇱🇰",
 
+  role:      "Software Engineer Intern @ Aztra (Pvt) Ltd",
+
   education: {
     degree:     "B.Sc. Physical Sciences",
     university: "University of Kelaniya",
@@ -51,23 +51,24 @@ const vishwa: Developer = {
   },
 
   currentFocus: [
-    "Full Stack Development (MERN + Spring Boot)",
-    "☁️  AWS Cloud Architecture & Solutions",
-    "🐳  Docker, Kubernetes & Microservices",
-    "⚡  Real-time Apps with Socket.io",
+    "⚙️  Full Stack Development (MERN + Spring Boot)",
+    "☁️  AWS Cloud Architecture & Multi-Cloud (Azure, GCP)",
+    "🐳  Docker, Kubernetes, Jenkins & CI/CD Pipelines",
+    "🧠  MLOps — MLflow Tracking & DVC Experiment Pipelines",
     "🔒  Secure APIs with JWT & OAuth2"
   ],
 
   techStack: {
     frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
     backend:   ["Node.js", "Express.js", "Spring Boot", "PHP"],
-    databases: ["MongoDB", "MySQL", "Redis"],
-    cloud:     ["AWS (EC2, S3, Lambda, RDS)", "Vercel", "Netlify", "Render"],
-    devOps:    ["Docker", "Kubernetes", "GitHub Actions", "CI/CD"],
-    tools:     ["Socket.io", "JWT", "Stripe", "Cloudinary", "Postman"]
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    cloud:     ["AWS (EC2, S3, Lambda, RDS, IAM)", "Azure (VM, AKS, ACR)", "Vercel", "Netlify", "Render"],
+    devOps:    ["Docker", "Kubernetes", "Jenkins", "GitHub Actions", "CI/CD"],
+    mlOps:     ["MLflow", "DVC"],
+    tools:     ["Socket.io", "JWT", "Zod", "Prisma", "Stripe", "PayHere", "Cloudinary", "Postman"]
   },
 
-  availableFor: "Software Engineering Internship / Full-Time Roles 🚀",
+  availableFor: "Software Engineering Roles & Collaborations 🚀",
   funFact:      "I deploy to production before my coffee gets cold ☕⚡"
 };
 ```
@@ -75,11 +76,11 @@ const vishwa: Developer = {
 <br clear="right"/>
 
 <ul>
-  <li>🔭 <b>Currently building:</b> Real-time collaborative apps with Socket.io & WebSockets</li>
-  <li>☁️ <b>Cloud Journey:</b> Hands-on with AWS EC2, S3, Lambda, RDS, IAM & CloudFormation</li>
-  <li>🌱 <b>Learning:</b> Kubernetes, AWS Solutions Architect, Advanced Microservices Patterns</li>
-  <li>🏆 <b>Deployed:</b> 10+ production-ready full-stack applications</li>
-  <li>💼 <b>Open to:</b> Internship & Full-Time Opportunities globally</li>
+  <li>💼 <b>Currently:</b> Software Engineer Intern at <a href="#">Aztra (Pvt) Ltd</a>, working across full-stack, DevOps & MLOps</li>
+  <li>🔭 <b>Building:</b> A full-stack weekly reporting system (Express, TypeScript, Prisma, PostgreSQL, Zod, JWT)</li>
+  <li>☁️ <b>Cloud Journey:</b> AWS Cloud Practitioner certified, hands-on with Azure VMs, AKS, and multi-cloud networking</li>
+  <li>🌱 <b>Learning:</b> Advanced Kubernetes patterns, MLOps pipelines, and infrastructure automation</li>
+  <li>🏆 <b>Deployed:</b> 15+ production-ready full-stack applications</li>
   <li>📫 <b>Reach me:</b> <a href="mailto:ekdvsampath@gmail.com">ekdvsampath@gmail.com</a></li>
 </ul>
 
@@ -116,10 +117,13 @@ const vishwa: Developer = {
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -131,17 +135,22 @@ const vishwa: Developer = {
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-### 🔧 DevOps & Tools
+### 🔧 DevOps, CI/CD & MLOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -150,26 +159,27 @@ const vishwa: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ☁️ AWS Cloud Services
+## 💼 Experience
 
 <div align="center">
 
-> *Currently building hands-on experience and working toward AWS Solutions Architect certification*
+| Role | Company | Duration | Mode |
+|------|---------|----------|------|
+| **Software Engineer Intern** | Aztra (Pvt) Ltd | 27 Apr 2026 – Present | Remote |
+| **Full Stack Development Intern** | Decode Labs | 7 Jun 2026 – 7 Jul 2026 | Remote |
 
 </div>
 
-| Service | Category | Use Case |
-|---------|----------|----------|
-| **EC2** | Compute | Hosting backend servers & web applications |
-| **S3** | Storage | Static file hosting, media storage, backups |
-| **Lambda** | Serverless | Event-driven functions & API backends |
-| **RDS** | Database | Managed relational databases (MySQL/PostgreSQL) |
-| **CloudFront** | CDN | Fast global content delivery |
-| **IAM** | Security | Access control & permissions management |
-| **VPC** | Networking | Isolated cloud network environments |
-| **CloudFormation** | IaC | Infrastructure as Code deployments |
-| **Route 53** | DNS | Domain management & routing |
-| **CloudWatch** | Monitoring | Logs, metrics & alerting |
+**🟢 Software Engineer Intern — Aztra (Pvt) Ltd** *(Current)*
+- Working on full-stack development tasks and real-world production features
+- Collaborating with team members in an Agile environment
+- Participating in code reviews and improving application performance
+
+**⚪ Full Stack Development Intern — Decode Labs**
+- Worked on assigned full-stack projects and milestone-based development
+- Participated in mentor-led sessions and training programs
+- Gained hands-on experience in real-world development workflow
+- Delivered **BuildCraft**, a responsive frontend project covering semantic HTML5, CSS Grid/Flexbox, fluid typography, and vanilla JS
 
 ---
 
@@ -177,41 +187,45 @@ const vishwa: Developer = {
 
 ## 🚀 Featured Projects
 
-### 🛒 Full-Stack E-Commerce Platforms
+### 🎟️ Booking & E-Commerce Platforms
 
 | Project | Tech Stack | Highlights | Links |
 |---------|-----------|-----------|-------|
-| **Online Shopping Web App** | MERN + Socket.io + Stripe + AWS S3 | Real-time order tracking, JWT auth, Stripe payments, cloud media | [![Live](https://img.shields.io/badge/🌐_Live-00C7B7?style=flat-square)](https://online-shopping-frontend-zeta.vercel.app/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/online-shopping-site-frontend) |
-| **Online Computer Shop** | MERN + Socket.io + PayHere | Real-time notifications, PayHere payment gateway, admin panel | [![Live](https://img.shields.io/badge/🌐_Live-00C7B7?style=flat-square)](https://computer.ekdvs.xyz/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/i-computers-frontend) |
+| **MyTickets — Ticket Booking System** | React, TypeScript, Spring Boot, MongoDB, JWT, PayHere, Docker | Multi-role dashboards (User/Organizer/Admin), Google OAuth, PayHere payments, QR ticket validation, PDF generation | [![Live](https://img.shields.io/badge/🌐_Live-00C7B7?style=flat-square)](https://project-qt6jb.vercel.app/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/My-Ticket-BOOKING) |
+| **Online Shopping Web App** | MERN, Socket.io, Stripe | Real-time notifications, JWT auth, Stripe payments, order tracking | [![Live](https://img.shields.io/badge/🌐_Live-00C7B7?style=flat-square)](https://online-shopping-frontend-zeta.vercel.app/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/online-shopping-site-frontend) |
+| **Online Computer Shop** | MERN, Socket.io, PayHere | Real-time notifications, PayHere gateway, order tracking | [![Live](https://img.shields.io/badge/🌐_Live-00C7B7?style=flat-square)](https://computer.ekdvs.xyz/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/i-computers-frontend) |
+
+### 🧠 AI, Finance & Productivity Apps
+
+| Project | Tech Stack | Highlights | Links |
+|---------|-----------|-----------|-------|
+| **FeedPulse — AI Feedback Platform** | Next.js, Express, MongoDB, Google Gemini, Docker, TypeScript | Sentiment/priority/category analysis via Gemini, JWT admin dashboard, analytics charts, Dockerized | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/feedpulse) |
+| **Personal Finance Tracker** | React, Node.js, Express, MongoDB, TypeScript | Income/expense/budget tracking, interactive dashboards & charts, JWT auth | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/personal-finance-tracker) |
+| **TaskFlow Manager** | Next.js, Spring Boot, MySQL, JWT | Task management with authentication and role-based access | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/TaskManager.git) |
+| **Product Manager** | Next.js, Tailwind CSS, TypeScript, Zod, Framer Motion | Full CRUD, search, dark mode, validation, smooth animations | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/product-management) |
+| **Collaborative Notes App** | React, MERN, TypeScript | CRUD, search, pinning, role-based access | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/Collaborative-Note-Taking-Web-App.git) |
 
 ### 🌍 Travel & Booking Platforms
 
 | Project | Tech Stack | Highlights | Links |
 |---------|-----------|-----------|-------|
-| **The Ceylon Traveler** | React + Spring Boot + MongoDB | Tour packages, booking system, payment gateway | [![Live](https://img.shields.io/badge/🌐_Live-FF4088?style=flat-square)](https://ceylon-travelernetlifyapp.vercel.app/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/Tour-Reservation-frontend) |
-| **Travel Experience Platform** | Next.js + MERN + TypeScript | Provider listings, traveler discovery, full-stack TypeScript | [![Live](https://img.shields.io/badge/🌐_Live-FF4088?style=flat-square)](https://travel-experience-platform.vercel.app) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/travel-experience-platform) |
-
-### 💬 Real-time & Productivity Apps
-
-| Project | Tech Stack | Highlights | Links |
-|---------|-----------|-----------|-------|
-| **Collaborative Notes App** | React + MERN + TypeScript | Pin, search, real-time sync, role-based collaboration | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/Collaborative-Note-Taking-Web-App.git) |
-| **Social Chat Application** | MERN + Socket.io + Cloudinary | Group chat, OTP auth, media uploads, push notifications | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs) |
+| **The Ceylon Traveler** | React, Spring Boot, MongoDB | Tour packages, booking system, payment gateway | [![Live](https://img.shields.io/badge/🌐_Live-FF4088?style=flat-square)](https://ceylon-travelernetlifyapp.vercel.app/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/Tour-Reservation-frontend) |
+| **Travel Experience Platform** | Next.js, MERN, TypeScript | Provider listings, traveler discovery, full-stack TypeScript | [![Live](https://img.shields.io/badge/🌐_Live-FF4088?style=flat-square)](https://travel-experience-platform.vercel.app) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/travel-experience-platform) |
 
 ### ☁️ Web Apps & Utilities
 
 | Project | Tech Stack | Highlights | Links |
 |---------|-----------|-----------|-------|
-| **Weather Forecast App** | React + TypeScript + OpenWeather API | 5-day forecast, React Query caching, responsive UI | [![Live](https://img.shields.io/badge/🌐_Live-00C7B7?style=flat-square)](https://wearther-app-three.vercel.app/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/wearther-app) |
-| **Emerald Weddings Planner** | PHP + MySQL + PHPMailer + AWS | Booking management, email notifications, admin dashboard | [![Live](https://img.shields.io/badge/🌐_Live-FF4088?style=flat-square)](https://weddingplaning.rf.gd/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/Emerald-Weddings) |
-| **Online Flower Shop** | HTML + CSS + JS + PHP | Product listings, cart, order management | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/lilylane) |
+| **Weather Forecast App** | React, TypeScript, OpenWeather API | 5-day forecast, caching, responsive UI | [![Live](https://img.shields.io/badge/🌐_Live-00C7B7?style=flat-square)](https://wearther-app-three.vercel.app/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/wearther-app) |
+| **Emerald Weddings Planner** | PHP, MySQL, PHPMailer | Booking management, email notifications, admin dashboard | [![Live](https://img.shields.io/badge/🌐_Live-FF4088?style=flat-square)](https://weddingplaning.rf.gd/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/Emerald-Weddings) |
+| **Online Flower Shop** | HTML, CSS, JS, PHP | Product listings, cart, order management | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/lilylane) |
 
 ### 🖥️ Desktop Applications
 
 | Project | Tech Stack | Highlights | Links |
 |---------|-----------|-----------|-------|
-| **Rent-a-Car Management** | C# + SQL Server + WinForms | Vehicle inventory, billing, customer tracking | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs) |
-| **Library Management System** | C# + SQL Server + WinForms | Book inventory, member tracking, returns processing | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/Library-Management-System) |
+| **Rent-a-Car Management** | C#, SQL Server, WinForms | Vehicle inventory, billing, customer tracking | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs) |
+| **Library Management System** | C#, SQL Server, WinForms | Book inventory, member tracking, returns processing | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/Library-Management-System) |
 
 <div align="center">
   <a href="https://ekdvs.github.io/Portfolio/">
@@ -271,30 +285,42 @@ const vishwa: Developer = {
 **📜 Certifications:**
 
 | Status | Certification | Provider |
-|--------|-------------|----------|
-| ✅ Completed | **Full Stack Developer** | DP Education IT Campus |
-| ✅ Completed | **Java Programming** | Simplilearn |
-| 🔄 In Progress | **AWS Cloud Practitioner** | Coursera |
-| 🔄 In Progress | **AWS Solutions Architect Associate** | AWS Official |
-| 🔄 In Progress | **Docker & Kubernetes** | Udemy |
+|--------|---------------|----------|
+| ✅ Completed | **AWS Cloud Practitioner** | AWS |
+| ✅ Completed | **100 Days of Cloud (AWS)** — KodeKloud Engineer | KodeKloud |
+| ✅ Completed | **100 Days of Cloud (Azure)** — KodeKloud Engineer | KodeKloud |
+| ✅ Completed | **Mastering CI/CD** | Learnfi.lk |
+| ✅ Completed | **Jenkins (Level 1)** — KodeKloud Engineer | KodeKloud |
+| ✅ Completed | **Linux (Level 1)** — KodeKloud Engineer | KodeKloud |
+| ✅ Completed | **Docker (Level 1)** — KodeKloud Engineer | KodeKloud |
+| ✅ Completed | **Multicloud Network Associate** | Aviatrix |
+| ✅ Completed | **Full-Stack Web Development (MERN)** | SKYREK |
+| 🔄 In Progress | **CloudPath Pro — DevOps & Cloud Engineering** | Learnfi |
+
+<br/>
+
+<div align="center">
+  <sub>Full certificate list with credential IDs and verification links available on the <a href="https://ekdvs.github.io/Portfolio/">Portfolio</a>.</sub>
+</div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Experience Highlights
+## ✅ Experience Highlights
 
 ```
- ✅  Developed 10+ production-ready full-stack applications
+ ✅  Developed 15+ production-ready full-stack applications
  ✅  Built real-time systems using Socket.io & WebSockets
  ✅  Designed and consumed RESTful APIs with JWT & OAuth2
  ✅  Integrated payment gateways: Stripe, PayHere
- ✅  Deployed applications on AWS (EC2, S3, Lambda, RDS)
+ ✅  Deployed applications on AWS (EC2, S3, Lambda, RDS) & Azure (VM, AKS, ACR)
  ✅  Deployed on Vercel, Netlify & Render
- ✅  Implemented CI/CD pipelines with GitHub Actions
- ✅  Used MongoDB Atlas, MySQL, Redis for data management
- ✅  Containerized apps with Docker & Kubernetes (learning)
- ✅  Designed scalable microservices architectures
+ ✅  Implemented CI/CD pipelines with Jenkins & GitHub Actions
+ ✅  Used PostgreSQL, Prisma, MongoDB Atlas, MySQL, Redis for data management
+ ✅  Containerized apps with Docker & orchestrated with Kubernetes
+ ✅  Set up MLOps workflows with MLflow tracking servers & DVC pipelines
+ ✅  Diagnosed and resolved production infra issues (Cloudflare SSL/TLS, reverse proxies)
 ```
 
 ---
