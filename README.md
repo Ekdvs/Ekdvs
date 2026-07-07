@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&height=220&section=header&text=Vishwa%20Sampath&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Engineer%20%7C%20Problem%20Solver&descAlignY=62&descSize=16&animation=scaleIn&stroke=7C3AED&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&amp;color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&amp;height=220&amp;section=header&amp;text=Vishwa%20Sampath&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=42&amp;desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Engineer%20%7C%20Problem%20Solver&amp;descAlignY=62&amp;descSize=16&amp;animation=scaleIn&amp;stroke=7C3AED&amp;strokeWidth=2" width="100%"/>
 
 <br/>
 
@@ -20,9 +20,9 @@
 
 <!-- Profile Counters -->
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=Ekdvs&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Ekdvs?label=Followers&style=flat-square&color=00D4FF" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Ekdvs?style=flat-square&color=FFD700&label=Total+Stars" alt="Total Stars"/>
+<img src="https://komarev.com/ghpvc/?username=Ekdvs&amp;label=Profile+Views&amp;color=7C3AED&amp;style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Ekdvs?label=Followers&amp;style=flat-square&amp;color=00D4FF" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Ekdvs?style=flat-square&amp;color=FFD700&amp;label=Total+Stars" alt="Total Stars"/>
 </p>
 
 </div>
@@ -88,7 +88,7 @@ const vishwa: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="30px"> Tech Stack & Tools
 
 ### 🌐 Languages
 
@@ -229,7 +229,7 @@ const vishwa: Developer = {
 
 <div align="center">
   <a href="https://ekdvs.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/🌐_View_Full_Portfolio-7C3AED?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_View_Full_Portfolio-7C3AED?style=for-the-badge&amp;logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
@@ -244,25 +244,25 @@ const vishwa: Developer = {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-one-wine-55.vercel.app/api?username=Ekdvs&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+      <img src="https://github-readme-stats-one-wine-55.vercel.app/api?username=Ekdvs&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="180"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-one-wine-55.vercel.app/api/top-langs/?username=Ekdvs&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+      <img src="https://github-readme-stats-one-wine-55.vercel.app/api/top-langs/?username=Ekdvs&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="180"/>
     </td>
   </tr>
 </table>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekdvs&theme=tokyonight&hide_border=true&ring=7C3AED&fire=00D4FF&currStreakLabel=7C3AED&background=0d1117&stroke=7C3AED&sideLabels=ffffff&dates=888888" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekdvs&amp;theme=tokyonight&amp;hide_border=true&amp;ring=7C3AED&amp;fire=00D4FF&amp;currStreakLabel=7C3AED&amp;background=0d1117&amp;stroke=7C3AED&amp;sideLabels=ffffff&amp;dates=888888" width="700"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekdvs&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED&line=00D4FF&point=ffffff&bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekdvs&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;area_color=7C3AED&amp;line=00D4FF&amp;point=ffffff&amp;bg_color=0d1117" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ekdvs&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ekdvs&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8&amp;no-bg=true" width="100%"/>
 
 </div>
 
@@ -352,7 +352,7 @@ const vishwa: Developer = {
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="700"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" width="700"/>
 
 <br/>
 
@@ -360,6 +360,6 @@ const vishwa: Developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b4b,100:1a0533&height=130&section=footer&text=Open+to+Opportunities+%7C+Let%27s+Build+Something+Amazing&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,50:0d1b4b,100:1a0533&amp;height=130&amp;section=footer&amp;text=Open+to+Opportunities+%7C+Let%27s+Build+Something+Amazing&amp;fontSize=16&amp;fontColor=ffffff&amp;fontAlignY=65&amp;animation=fadeIn" width="100%"/>
 
 </div>
