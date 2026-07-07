@@ -1,16 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<!-- Animated Header Banner -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a1a%2C30:0d1b4b%2C60:1a0533%2C100:0a0a1a&height=220&section=header&text=Vishwa%20Sampath&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Engineer%20%7C%20Problem%20Solver&descAlignY=62&descSize=16&animation=scaleIn&stroke=7C3AED&strokeWidth=2"
-    width="100%"
-    alt="Vishwa Sampath Header"
-  />
-</p>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&height=220&section=header&text=Vishwa%20Sampath&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Engineer%20%7C%20Problem%20Solver&descAlignY=62&descSize=16&animation=scaleIn&stroke=7C3AED&strokeWidth=2" width="100%"/>
 
 <br/>
 
