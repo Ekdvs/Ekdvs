@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&amp;height=260&amp;section=header&amp;text=Hi%20👋%2C%20I'm%20Vishwa%20Sampath&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20MLOps%20Enthusiast&amp;descAlignY=58&amp;descSize=17&amp;animation=twinkling&amp;stroke=7C3AED&amp;strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&amp;height=260&amp;section=header&amp;text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Vishwa%20Sampath&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20MLOps%20Enthusiast&amp;descAlignY=58&amp;descSize=17&amp;animation=twinkling&amp;stroke=7C3AED&amp;strokeWidth=1.5" width="100%"/>
 
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=750&lines=🚀+Building+Scalable+Full-Stack+Applications;☁️+AWS+Certified+Cloud+Practitioner;🐳+Docker+%7C+Kubernetes+%7C+Jenkins+%7C+CI%2FCD;⚡+Spring+Boot+%7C+MERN+%7C+Next.js+%7C+TypeScript;📊+MLOps+%7C+MLflow+%7C+DVC+Pipelines;🎯+Turning+Bold+Ideas+into+Production-Ready+Systems)](https://git.io/typing-svg)
@@ -171,17 +171,17 @@ const vishwa: Developer = {
 
 | Skill | Level |
 |---|---|
-| React & TypeScript | ![90%](https://progress-bar.dev/90/?color=00D4FF) |
-| Node.js & Express | ![88%](https://progress-bar.dev/88/?color=00D4FF) |
-| Java & Spring Boot | ![85%](https://progress-bar.dev/85/?color=7C3AED) |
-| MongoDB & SQL | ![85%](https://progress-bar.dev/85/?color=7C3AED) |
-| HTML & CSS | ![95%](https://progress-bar.dev/95/?color=00D4FF) |
-| Tailwind CSS | ![90%](https://progress-bar.dev/90/?color=00D4FF) |
-| Git & GitHub | ![90%](https://progress-bar.dev/90/?color=7C3AED) |
-| AWS | ![80%](https://progress-bar.dev/80/?color=FF9900) |
-| C# & .NET | ![80%](https://progress-bar.dev/80/?color=7C3AED) |
-| Python & FastAPI | ![75%](https://progress-bar.dev/75/?color=00D4FF) |
-| Docker | ![75%](https://progress-bar.dev/75/?color=2496ED) |
+| React & TypeScript | ![90%](https://img.shields.io/badge/90%25-00D4FF?style=flat-square) |
+| Node.js & Express | ![88%](https://img.shields.io/badge/88%25-00D4FF?style=flat-square) |
+| Java & Spring Boot | ![85%](https://img.shields.io/badge/85%25-7C3AED?style=flat-square) |
+| MongoDB & SQL | ![85%](https://img.shields.io/badge/85%25-7C3AED?style=flat-square) |
+| HTML & CSS | ![95%](https://img.shields.io/badge/95%25-00D4FF?style=flat-square) |
+| Tailwind CSS | ![90%](https://img.shields.io/badge/90%25-00D4FF?style=flat-square) |
+| Git & GitHub | ![90%](https://img.shields.io/badge/90%25-7C3AED?style=flat-square) |
+| AWS | ![80%](https://img.shields.io/badge/80%25-FF9900?style=flat-square) |
+| C# & .NET | ![80%](https://img.shields.io/badge/80%25-7C3AED?style=flat-square) |
+| Python & FastAPI | ![75%](https://img.shields.io/badge/75%25-00D4FF?style=flat-square) |
+| Docker | ![75%](https://img.shields.io/badge/75%25-2496ED?style=flat-square) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,100:00D4FF&amp;height=3&amp;section=header" width="100%"/>
 
