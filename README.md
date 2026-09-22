@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&height=260&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Vishwa%20Sampath&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20MLOps%20Enthusiast&descAlignY=58&descSize=17&animation=twinkling&stroke=7C3AED&strokeWidth=1.5" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&amp;height=260&amp;section=header&amp;text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Vishwa%20Sampath&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20MLOps%20Enthusiast&amp;descAlignY=58&amp;descSize=17&amp;animation=twinkling&amp;stroke=7C3AED&amp;strokeWidth=1.5" width="100%" alt="Vishwa Sampath Header" />
 
 <br />
 
@@ -9,6 +9,8 @@
 <br />
 
 </div>
+
+
 
 <!-- Social Badges -->
 <p>
