@@ -1,12 +1,14 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&amp;height=260&amp;section=header&amp;text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Vishwa%20Sampath&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20MLOps%20Enthusiast&amp;descAlignY=58&amp;descSize=17&amp;animation=twinkling&amp;stroke=7C3AED&amp;strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&height=260&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Vishwa%20Sampath&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20MLOps%20Enthusiast&descAlignY=58&descSize=17&animation=twinkling&stroke=7C3AED&strokeWidth=1.5" width="100%" />
 
-<!-- Animated Typing -->
+<br />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=750&lines=🚀+Building+Scalable+Full-Stack+Applications;☁️+AWS+Certified+Cloud+Practitioner;🐳+Docker+%7C+Kubernetes+%7C+Jenkins+%7C+CI%2FCD;⚡+Spring+Boot+%7C+MERN+%7C+Next.js+%7C+TypeScript;📊+MLOps+%7C+MLflow+%7C+DVC+Pipelines;🎯+Turning+Bold+Ideas+into+Production-Ready+Systems)](https://git.io/typing-svg)
 
-<br/>
+<br />
+
+</div>
 
 <!-- Social Badges -->
 <p>
