@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&amp;height=260&amp;section=header&amp;text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Vishwa%20Sampath&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20MLOps%20Enthusiast&amp;descAlignY=58&amp;descSize=17&amp;animation=twinkling&amp;stroke=7C3AED&amp;strokeWidth=1.5" width="100%" alt="Vishwa Sampath Header">
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Applications;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins;Spring+Boot+%7C+MERN+%7C+Next.js;MLOps+%7C+MLflow+%7C+DVC" alt="Typing SVG">
+
+</div>
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;random=false&amp;width=750&amp;lines=%F0%9F%9A%80+Building+Scalable+Full-Stack+Applications%3B%E2%98%81%EF%B8%8F+AWS+Certified+Cloud+Practitioner%3B%F0%9F%90%B3+Docker+%7C+Kubernetes+%7C+Jenkins+%7C+CI%2FCD%3B%E2%9A%A1+Spring+Boot+%7C+MERN+%7C+Next.js+%7C+TypeScript%3B%F0%9F%93%8A+MLOps+%7C+MLflow+%7C+DVC+Pipelines%3B%F0%9F%8E%AF+Turning+Bold+Ideas+into+Production-Ready+Systems" alt="Typing SVG">
