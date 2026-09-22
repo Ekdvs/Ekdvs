@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&amp;color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&amp;height=220&amp;section=header&amp;text=Vishwa%20Sampath&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=42&amp;desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Engineer%20%7C%20Problem%20Solver&amp;descAlignY=62&amp;descSize=16&amp;animation=scaleIn&amp;stroke=7C3AED&amp;strokeWidth=2" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&height=260&section=header&text=Hi%20👋%2C%20I'm%20Vishwa%20Sampath&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20MLOps%20Enthusiast&descAlignY=58&descSize=17&animation=twinkling&stroke=7C3AED&strokeWidth=1.5" width="100%"/>
 
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=750&lines=🚀+Building+Scalable+Full-Stack+Applications;☁️+AWS+Certified+Cloud+Practitioner;🐳+Docker+%7C+Kubernetes+%7C+Jenkins+%7C+CI%2FCD;⚡+Spring+Boot+%7C+MERN+%7C+Next.js+%7C+TypeScript;📊+MLOps+%7C+MLflow+%7C+DVC+Pipelines;🎯+Turning+Bold+Ideas+into+Production-Ready+Systems)](https://git.io/typing-svg)
@@ -11,29 +9,27 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishwa_Sampath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwa-sampath-110b3b25b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ekdvs.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Gmail-ekdvsampath@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekdvsampath@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@Ekdvs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ekdvs)
-
-<br/>
+<p>
+<a href="https://linkedin.com/in/vishwa-sampath-110b3b25b"><img src="https://img.shields.io/badge/LinkedIn-Vishwa_Sampath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://ekdvs.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:ekdvsampath@gmail.com"><img src="https://img.shields.io/badge/Gmail-ekdvsampath@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Ekdvs"><img src="https://img.shields.io/badge/GitHub-@Ekdvs-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <!-- Profile Counters -->
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Ekdvs&amp;label=Profile+Views&amp;color=7C3AED&amp;style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Ekdvs?label=Followers&amp;style=flat-square&amp;color=00D4FF" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Ekdvs?style=flat-square&amp;color=FFD700&amp;label=Total+Stars" alt="Total Stars"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=Ekdvs&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Ekdvs?label=Followers&style=flat-square&color=00D4FF" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Ekdvs?style=flat-square&color=FFD700&label=Total+Stars" alt="Total Stars"/>
 </p>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> About Me
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px"/>
 
 ```typescript
 const vishwa: Developer = {
@@ -58,16 +54,6 @@ const vishwa: Developer = {
     "🔒  Secure APIs with JWT & OAuth2"
   ],
 
-  techStack: {
-    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend:   ["Node.js", "Express.js", "Spring Boot", "PHP"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    cloud:     ["AWS (EC2, S3, Lambda, RDS, IAM)", "Azure (VM, AKS, ACR)", "Vercel", "Netlify", "Render"],
-    devOps:    ["Docker", "Kubernetes", "Jenkins", "GitHub Actions", "CI/CD"],
-    mlOps:     ["MLflow", "DVC"],
-    tools:     ["Socket.io", "JWT", "Zod", "Prisma", "Stripe", "PayHere", "Cloudinary", "Postman"]
-  },
-
   availableFor: "Software Engineering Roles & Collaborations 🚀",
   funFact:      "I deploy to production before my coffee gets cold ☕⚡"
 };
@@ -76,7 +62,7 @@ const vishwa: Developer = {
 <br clear="right"/>
 
 <ul>
-  <li>💼 <b>Currently:</b> Software Engineer Intern at <a href="#">Aztra (Pvt) Ltd</a>, working across full-stack, DevOps & MLOps</li>
+  <li>💼 <b>Currently:</b> Software Engineer Intern at Aztra (Pvt) Ltd, working across full-stack, DevOps & MLOps</li>
   <li>🔭 <b>Building:</b> A full-stack weekly reporting system (Express, TypeScript, Prisma, PostgreSQL, Zod, JWT)</li>
   <li>☁️ <b>Cloud Journey:</b> AWS Cloud Practitioner certified, hands-on with Azure VMs, AKS, and multi-cloud networking</li>
   <li>🌱 <b>Learning:</b> Advanced Kubernetes patterns, MLOps pipelines, and infrastructure automation</li>
@@ -84,13 +70,13 @@ const vishwa: Developer = {
   <li>📫 <b>Reach me:</b> <a href="mailto:ekdvsampath@gmail.com">ekdvsampath@gmail.com</a></li>
 </ul>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Tech Stack & Tools
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="30px"> Tech Stack & Tools
-
-### 🌐 Languages
+<details open>
+<summary><b>🌐 Languages</b></summary>
+<br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -100,7 +86,11 @@ const vishwa: Developer = {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 🎨 Frontend
+</details>
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -108,19 +98,29 @@ const vishwa: Developer = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### ⚙️ Backend
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 🗄️ Databases
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -128,7 +128,11 @@ const vishwa: Developer = {
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### ☁️ Cloud & Deployment
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & Deployment</b></summary>
+<br/>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
@@ -141,7 +145,11 @@ const vishwa: Developer = {
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-### 🔧 DevOps, CI/CD & MLOps
+</details>
+
+<details open>
+<summary><b>🔧 DevOps, CI/CD & MLOps</b></summary>
+<br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -155,157 +163,201 @@ const vishwa: Developer = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
+</details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+### 📊 Proficiency Snapshot
+
+| Skill | Level |
+|---|---|
+| React & TypeScript | ![90%](https://progress-bar.dev/90/?color=00D4FF) |
+| Node.js & Express | ![88%](https://progress-bar.dev/88/?color=00D4FF) |
+| Java & Spring Boot | ![85%](https://progress-bar.dev/85/?color=7C3AED) |
+| MongoDB & SQL | ![85%](https://progress-bar.dev/85/?color=7C3AED) |
+| HTML & CSS | ![95%](https://progress-bar.dev/95/?color=00D4FF) |
+| Tailwind CSS | ![90%](https://progress-bar.dev/90/?color=00D4FF) |
+| Git & GitHub | ![90%](https://progress-bar.dev/90/?color=7C3AED) |
+| AWS | ![80%](https://progress-bar.dev/80/?color=FF9900) |
+| C# & .NET | ![80%](https://progress-bar.dev/80/?color=7C3AED) |
+| Python & FastAPI | ![75%](https://progress-bar.dev/75/?color=00D4FF) |
+| Docker | ![75%](https://progress-bar.dev/75/?color=2496ED) |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
 
 ## 💼 Experience
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Role | Company | Duration | Mode |
-|------|---------|----------|------|
-| **Software Engineer Intern** | Aztra (Pvt) Ltd | 27 Apr 2026 – Present | Remote |
-| **Full Stack Development Intern** | Decode Labs | 7 Jun 2026 – 7 Jul 2026 | Remote |
+### 🟢 Software Engineer Intern
+**Aztra (Pvt) Ltd** · *Remote*
+`27 Apr 2026 – Present`
 
-</div>
-
-**🟢 Software Engineer Intern — Aztra (Pvt) Ltd** *(Current)*
 - Working on full-stack development tasks and real-world production features
 - Collaborating with team members in an Agile environment
 - Participating in code reviews and improving application performance
 
-**⚪ Full Stack Development Intern — Decode Labs**
+</td>
+<td width="50%" valign="top">
+
+### ⚪ Full Stack Development Intern
+**Decode Labs** · *Remote*
+`7 Jun 2026 – 7 Jul 2026`
+
 - Worked on assigned full-stack projects and milestone-based development
 - Participated in mentor-led sessions and training programs
-- Gained hands-on experience in real-world development workflow
-- Delivered **BuildCraft**, a responsive frontend project covering semantic HTML5, CSS Grid/Flexbox, fluid typography, and vanilla JS
+- Delivered **BuildCraft** — a responsive frontend project (semantic HTML5, CSS Grid/Flexbox, fluid typography, vanilla JS)
 
----
+</td>
+</tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
+
+## 🛠️ What I Offer
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻 Full-Stack Development
+End-to-end web applications with React, Node.js, Spring Boot, and modern databases.
+
+</td>
+<td align="center" width="33%">
+
+### 🔌 API Development
+RESTful APIs, real-time features with Socket.io, JWT authentication, and cloud deployment.
+
+</td>
+<td align="center" width="33%">
+
+### 🏗️ Technical Consulting
+Architecture design, code reviews, performance optimization, and best-practice implementation.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
 ### 🎟️ Booking & E-Commerce Platforms
 
 | Project | Tech Stack | Highlights | Links |
-|---------|-----------|-----------|-------|
-| **MyTickets — Ticket Booking System** | React, TypeScript, Spring Boot, MongoDB, JWT, PayHere, Docker | Multi-role dashboards (User/Organizer/Admin), Google OAuth, PayHere payments, QR ticket validation, PDF generation | [![Live](https://img.shields.io/badge/🌐_Live-00C7B7?style=flat-square)](https://project-qt6jb.vercel.app/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/My-Ticket-BOOKING) |
-| **Online Shopping Web App** | MERN, Socket.io, Stripe | Real-time notifications, JWT auth, Stripe payments, order tracking | [![Live](https://img.shields.io/badge/🌐_Live-00C7B7?style=flat-square)](https://online-shopping-frontend-zeta.vercel.app/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/online-shopping-site-frontend) |
-| **Online Computer Shop** | MERN, Socket.io, PayHere | Real-time notifications, PayHere gateway, order tracking | [![Live](https://img.shields.io/badge/🌐_Live-00C7B7?style=flat-square)](https://computer.ekdvs.xyz/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/i-computers-frontend) |
+|---|---|---|---|
+| **MyTickets — Ticket Booking System** | React · TypeScript · Spring Boot · MongoDB · JWT · PayHere · Docker | Multi-role dashboards (User/Organizer/Admin), Google OAuth, PayHere payments, QR ticket validation, PDF generation | [🌐 Live](https://project-qt6jb.vercel.app/) · [📦 Code](https://github.com/Ekdvs/My-Ticket-BOOKING) |
+| **Online Shopping Web App** | MERN · Socket.io · Stripe | Real-time notifications, JWT auth, Stripe payments, order tracking | [🌐 Live](https://online-shopping-frontend-zeta.vercel.app/) · [📦 Code](https://github.com/Ekdvs/online-shopping-site-frontend) |
+| **Online Computer Shop** | MERN · Socket.io · PayHere | Real-time notifications, PayHere gateway, order tracking | [🌐 Live](https://computer.ekdvs.xyz/) · [📦 Code](https://github.com/Ekdvs/i-computers-frontend) |
 
 ### 🧠 AI, Finance & Productivity Apps
 
 | Project | Tech Stack | Highlights | Links |
-|---------|-----------|-----------|-------|
-| **FeedPulse — AI Feedback Platform** | Next.js, Express, MongoDB, Google Gemini, Docker, TypeScript | Sentiment/priority/category analysis via Gemini, JWT admin dashboard, analytics charts, Dockerized | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/feedpulse) |
-| **Personal Finance Tracker** | React, Node.js, Express, MongoDB, TypeScript | Income/expense/budget tracking, interactive dashboards & charts, JWT auth | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/personal-finance-tracker) |
-| **TaskFlow Manager** | Next.js, Spring Boot, MySQL, JWT | Task management with authentication and role-based access | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/TaskManager.git) |
-| **Product Manager** | Next.js, Tailwind CSS, TypeScript, Zod, Framer Motion | Full CRUD, search, dark mode, validation, smooth animations | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/product-management) |
-| **Collaborative Notes App** | React, MERN, TypeScript | CRUD, search, pinning, role-based access | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/Collaborative-Note-Taking-Web-App.git) |
+|---|---|---|---|
+| **FeedPulse — AI Feedback Platform** | Next.js · Express · MongoDB · Google Gemini · Docker · TypeScript | Sentiment/priority/category analysis via Gemini, JWT admin dashboard, analytics charts, Dockerized | [📦 Code](https://github.com/Ekdvs/feedpulse) |
+| **Personal Finance Tracker** | React · Node.js · Express · MongoDB · TypeScript | Income/expense/budget tracking, interactive dashboards & charts, JWT auth | [📦 Code](https://github.com/Ekdvs/personal-finance-tracker) |
+| **TaskFlow Manager** | Next.js · Spring Boot · MySQL · JWT | Task management with authentication and role-based access | [📦 Code](https://github.com/Ekdvs/TaskManager.git) |
+| **Product Manager** | Next.js · Tailwind CSS · TypeScript · Zod · Framer Motion | Full CRUD, search, dark mode, validation, smooth animations | [📦 Code](https://github.com/Ekdvs/product-management) |
+| **Collaborative Notes App** | React · MERN · TypeScript | CRUD, search, pinning, role-based access | [📦 Code](https://github.com/Ekdvs/Collaborative-Note-Taking-Web-App.git) |
 
 ### 🌍 Travel & Booking Platforms
 
 | Project | Tech Stack | Highlights | Links |
-|---------|-----------|-----------|-------|
-| **The Ceylon Traveler** | React, Spring Boot, MongoDB | Tour packages, booking system, payment gateway | [![Live](https://img.shields.io/badge/🌐_Live-FF4088?style=flat-square)](https://ceylon-travelernetlifyapp.vercel.app/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/Tour-Reservation-frontend) |
-| **Travel Experience Platform** | Next.js, MERN, TypeScript | Provider listings, traveler discovery, full-stack TypeScript | [![Live](https://img.shields.io/badge/🌐_Live-FF4088?style=flat-square)](https://travel-experience-platform.vercel.app) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/travel-experience-platform) |
+|---|---|---|---|
+| **The Ceylon Traveler** | React · Spring Boot · MongoDB | Tour packages, booking system, payment gateway | [🌐 Live](https://ceylon-travelernetlifyapp.vercel.app/) · [📦 Code](https://github.com/Ekdvs/Tour-Reservation-frontend) |
+| **Travel Experience Platform** | Next.js · MERN · TypeScript | Provider listings, traveler discovery, full-stack TypeScript | [🌐 Live](https://travel-experience-platform.vercel.app) · [📦 Code](https://github.com/Ekdvs/travel-experience-platform) |
 
 ### ☁️ Web Apps & Utilities
 
 | Project | Tech Stack | Highlights | Links |
-|---------|-----------|-----------|-------|
-| **Weather Forecast App** | React, TypeScript, OpenWeather API | 5-day forecast, caching, responsive UI | [![Live](https://img.shields.io/badge/🌐_Live-00C7B7?style=flat-square)](https://wearther-app-three.vercel.app/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/wearther-app) |
-| **Emerald Weddings Planner** | PHP, MySQL, PHPMailer | Booking management, email notifications, admin dashboard | [![Live](https://img.shields.io/badge/🌐_Live-FF4088?style=flat-square)](https://weddingplaning.rf.gd/) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/Emerald-Weddings) |
-| **Online Flower Shop** | HTML, CSS, JS, PHP | Product listings, cart, order management | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/lilylane) |
+|---|---|---|---|
+| **Weather Forecast App** | React · TypeScript · OpenWeather API | 5-day forecast, caching, responsive UI | [🌐 Live](https://wearther-app-three.vercel.app/) · [📦 Code](https://github.com/Ekdvs/wearther-app) |
+| **Emerald Weddings Planner** | PHP · MySQL · PHPMailer | Booking management, email notifications, admin dashboard | [🌐 Live](https://weddingplaning.rf.gd/) · [📦 Code](https://github.com/Ekdvs/Emerald-Weddings) |
+| **Online Flower Shop** | HTML · CSS · JS · PHP | Product listings, cart, order management | [📦 Code](https://github.com/Ekdvs/lilylane) |
 
 ### 🖥️ Desktop Applications
 
 | Project | Tech Stack | Highlights | Links |
-|---------|-----------|-----------|-------|
-| **Rent-a-Car Management** | C#, SQL Server, WinForms | Vehicle inventory, billing, customer tracking | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs) |
-| **Library Management System** | C#, SQL Server, WinForms | Book inventory, member tracking, returns processing | [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github)](https://github.com/Ekdvs/Library-Management-System) |
+|---|---|---|---|
+| **Rent-a-Car Management** | C# · SQL Server · WinForms | Vehicle inventory, billing, customer tracking | [📦 Code](https://github.com/Ekdvs) |
+| **Library Management System** | C# · SQL Server · WinForms | Book inventory, member tracking, returns processing | [📦 Code](https://github.com/Ekdvs/Library-Management-System) |
 
 <div align="center">
-  <a href="https://ekdvs.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/🌐_View_Full_Portfolio-7C3AED?style=for-the-badge&amp;logoColor=white" alt="Portfolio"/>
-  </a>
+
+[![View Full Portfolio](https://img.shields.io/badge/🌐_View_Full_Portfolio-7C3AED?style=for-the-badge)](https://ekdvs.github.io/Portfolio/)
+
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-one-wine-55.vercel.app/api?username=Ekdvs&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="180"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-one-wine-55.vercel.app/api/top-langs/?username=Ekdvs&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="180"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats-one-wine-55.vercel.app/api?username=Ekdvs&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-one-wine-55.vercel.app/api/top-langs/?username=Ekdvs&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekdvs&amp;theme=tokyonight&amp;hide_border=true&amp;ring=7C3AED&amp;fire=00D4FF&amp;currStreakLabel=7C3AED&amp;background=0d1117&amp;stroke=7C3AED&amp;sideLabels=ffffff&amp;dates=888888" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekdvs&theme=tokyonight&hide_border=true&ring=7C3AED&fire=00D4FF&currStreakLabel=7C3AED&background=0d1117&stroke=7C3AED&sideLabels=ffffff&dates=888888" width="700"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekdvs&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;area_color=7C3AED&amp;line=00D4FF&amp;point=ffffff&amp;bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekdvs&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED&line=00D4FF&point=ffffff&bg_color=0d1117" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ekdvs&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8&amp;no-bg=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ekdvs&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" width="100%"/>
 
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
 
 ## 🎓 Education & Certifications
 
 <div align="center">
 
 | 🎓 Degree | 🏛️ Institution | 📊 GPA |
-|-----------|----------------|--------|
+|---|---|---|
 | B.Sc. Physical Sciences (CS, Math, Chemistry) | University of Kelaniya, Sri Lanka 🇱🇰 | 3.13 / 4.0 |
 
 </div>
 
 <br/>
 
-**📜 Certifications:**
-
-| Status | Certification | Provider |
-|--------|---------------|----------|
-| ✅ Completed | **AWS Cloud Practitioner** | AWS |
-| ✅ Completed | **100 Days of Cloud (AWS)** — KodeKloud Engineer | KodeKloud |
-| ✅ Completed | **100 Days of Cloud (Azure)** — KodeKloud Engineer | KodeKloud |
-| ✅ Completed | **Mastering CI/CD** | Learnfi.lk |
-| ✅ Completed | **Jenkins (Level 1)** — KodeKloud Engineer | KodeKloud |
-| ✅ Completed | **Linux (Level 1)** — KodeKloud Engineer | KodeKloud |
-| ✅ Completed | **Docker (Level 1)** — KodeKloud Engineer | KodeKloud |
-| ✅ Completed | **Multicloud Network Associate** | Aviatrix |
-| ✅ Completed | **Full-Stack Web Development (MERN)** | SKYREK |
-| 🔄 In Progress | **CloudPath Pro — DevOps & Cloud Engineering** | Learnfi |
-
+<details>
+<summary><b>📜 View All Certifications (16)</b></summary>
 <br/>
+
+| Status | Certification | Issuer | Date |
+|---|---|---|---|
+| ✅ | **AWS Cloud Practitioner** | AWS | — |
+| ✅ | **100 Days of Cloud (AWS)** — KodeKloud Engineer | KodeKloud | Jun 2026 |
+| ✅ | **100 Days of Cloud (Azure)** | KodeKloud | Jul 2026 |
+| ✅ | **Docker (Level 1)** — KodeKloud Engineer | KodeKloud | Jun 2026 |
+| ✅ | **Docker for Absolute Beginners with Hands on Projects** | CoDeKu DevOps Academy | Aug 2026 |
+| ✅ | **Jenkins (Level 1)** — KodeKloud Engineer | KodeKloud | Jun 2026 |
+| ✅ | **Linux (Level 1)** — KodeKloud Engineer | KodeKloud | Jun 2026 |
+| ✅ | **Mastering CI/CD** | Learnfi.lk | Jun 2026 |
+| ✅ | **CloudPath Pro — DevOps & Cloud Engineering** | Learnfi | 2026 |
+| ✅ | **Beauty of Cloud 2.0 — Session 01** | IEEE Computer Society | May 2026 |
+| ✅ | **CoDeKu Certified GCP 101** | CoDeKu LABS | Feb 2026 |
+| ✅ | **Full-Stack Web Development (MERN)** | SKYREK | Jan 2026 |
+| ✅ | **Multicloud Network Associate** | Aviatrix | Oct 2025 |
+| ✅ | **Full Stack Web Development – MERN Stack Pathway** | Skill Lab Education & Technologies | Oct 2025 |
+| ✅ | **Learning Docker** | LinkedIn Learning | Jan 2026 |
+| ✅ | **React / Figma / HTML / CSS / JavaScript** | DP Education IT Campus | Jun–Jul 2025 |
+
+</details>
 
 <div align="center">
   <sub>Full certificate list with credential IDs and verification links available on the <a href="https://ekdvs.github.io/Portfolio/">Portfolio</a>.</sub>
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
 
 ## ✅ Experience Highlights
 
@@ -323,9 +375,7 @@ const vishwa: Developer = {
  ✅  Diagnosed and resolved production infra issues (Cloudflare SSL/TLS, reverse proxies)
 ```
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
 
 ## 📈 Contribution Snake
 
@@ -337,9 +387,7 @@ const vishwa: Developer = {
   </picture>
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -352,14 +400,12 @@ const vishwa: Developer = {
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" width="700"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="700"/>
 
 <br/>
 
 > 💡 *"Clean code, scalable systems, real impact — that's what I build."*
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,50:0d1b4b,100:1a0533&amp;height=130&amp;section=footer&amp;text=Open+to+Opportunities+%7C+Let%27s+Build+Something+Amazing&amp;fontSize=16&amp;fontColor=ffffff&amp;fontAlignY=65&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b4b,100:1a0533&height=130&section=footer&text=Open+to+Opportunities+%7C+Let%27s+Build+Something+Amazing&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
