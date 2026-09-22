@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&height=260&section=header&text=Hi%20👋%2C%20I'm%20Vishwa%20Sampath&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20MLOps%20Enthusiast&descAlignY=58&descSize=17&animation=twinkling&stroke=7C3AED&strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&amp;height=260&amp;section=header&amp;text=Hi%20👋%2C%20I'm%20Vishwa%20Sampath&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20MLOps%20Enthusiast&amp;descAlignY=58&amp;descSize=17&amp;animation=twinkling&amp;stroke=7C3AED&amp;strokeWidth=1.5" width="100%"/>
 
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=750&lines=🚀+Building+Scalable+Full-Stack+Applications;☁️+AWS+Certified+Cloud+Practitioner;🐳+Docker+%7C+Kubernetes+%7C+Jenkins+%7C+CI%2FCD;⚡+Spring+Boot+%7C+MERN+%7C+Next.js+%7C+TypeScript;📊+MLOps+%7C+MLflow+%7C+DVC+Pipelines;🎯+Turning+Bold+Ideas+into+Production-Ready+Systems)](https://git.io/typing-svg)
@@ -10,22 +10,22 @@
 
 <!-- Social Badges -->
 <p>
-<a href="https://linkedin.com/in/vishwa-sampath-110b3b25b"><img src="https://img.shields.io/badge/LinkedIn-Vishwa_Sampath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://ekdvs.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:ekdvsampath@gmail.com"><img src="https://img.shields.io/badge/Gmail-ekdvsampath@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Ekdvs"><img src="https://img.shields.io/badge/GitHub-@Ekdvs-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/vishwa-sampath-110b3b25b"><img src="https://img.shields.io/badge/LinkedIn-Vishwa_Sampath-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="https://ekdvs.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
+<a href="mailto:ekdvsampath@gmail.com"><img src="https://img.shields.io/badge/Gmail-ekdvsampath@gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://github.com/Ekdvs"><img src="https://img.shields.io/badge/GitHub-@Ekdvs-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 
 <!-- Profile Counters -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=Ekdvs&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Ekdvs?label=Followers&style=flat-square&color=00D4FF" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Ekdvs?style=flat-square&color=FFD700&label=Total+Stars" alt="Total Stars"/>
+<img src="https://komarev.com/ghpvc/?username=Ekdvs&amp;label=Profile+Views&amp;color=7C3AED&amp;style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Ekdvs?label=Followers&amp;style=flat-square&amp;color=00D4FF" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Ekdvs?style=flat-square&amp;color=FFD700&amp;label=Total+Stars" alt="Total Stars"/>
 </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,100:00D4FF&amp;height=3&amp;section=header" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> About Me
 
@@ -70,9 +70,9 @@ const vishwa: Developer = {
   <li>📫 <b>Reach me:</b> <a href="mailto:ekdvsampath@gmail.com">ekdvsampath@gmail.com</a></li>
 </ul>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,100:00D4FF&amp;height=3&amp;section=header" width="100%"/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Tech Stack & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="28px"> Tech Stack &amp; Tools
 
 <details open>
 <summary><b>🌐 Languages</b></summary>
@@ -183,7 +183,7 @@ const vishwa: Developer = {
 | Python & FastAPI | ![75%](https://progress-bar.dev/75/?color=00D4FF) |
 | Docker | ![75%](https://progress-bar.dev/75/?color=2496ED) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,100:00D4FF&amp;height=3&amp;section=header" width="100%"/>
 
 ## 💼 Experience
 
@@ -214,7 +214,7 @@ const vishwa: Developer = {
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,100:00D4FF&amp;height=3&amp;section=header" width="100%"/>
 
 ## 🛠️ What I Offer
 
@@ -241,7 +241,7 @@ Architecture design, code reviews, performance optimization, and best-practice i
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,100:00D4FF&amp;height=3&amp;section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -291,30 +291,30 @@ Architecture design, code reviews, performance optimization, and best-practice i
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,100:00D4FF&amp;height=3&amp;section=header" width="100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats-one-wine-55.vercel.app/api?username=Ekdvs&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats-one-wine-55.vercel.app/api/top-langs/?username=Ekdvs&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-one-wine-55.vercel.app/api?username=Ekdvs&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="180"/>
+<img src="https://github-readme-stats-one-wine-55.vercel.app/api/top-langs/?username=Ekdvs&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekdvs&theme=tokyonight&hide_border=true&ring=7C3AED&fire=00D4FF&currStreakLabel=7C3AED&background=0d1117&stroke=7C3AED&sideLabels=ffffff&dates=888888" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekdvs&amp;theme=tokyonight&amp;hide_border=true&amp;ring=7C3AED&amp;fire=00D4FF&amp;currStreakLabel=7C3AED&amp;background=0d1117&amp;stroke=7C3AED&amp;sideLabels=ffffff&amp;dates=888888" width="700"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekdvs&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED&line=00D4FF&point=ffffff&bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekdvs&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;area_color=7C3AED&amp;line=00D4FF&amp;point=ffffff&amp;bg_color=0d1117" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ekdvs&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ekdvs&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8&amp;no-bg=true" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,100:00D4FF&amp;height=3&amp;section=header" width="100%"/>
 
 ## 🎓 Education & Certifications
 
@@ -357,7 +357,7 @@ Architecture design, code reviews, performance optimization, and best-practice i
   <sub>Full certificate list with credential IDs and verification links available on the <a href="https://ekdvs.github.io/Portfolio/">Portfolio</a>.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,100:00D4FF&amp;height=3&amp;section=header" width="100%"/>
 
 ## ✅ Experience Highlights
 
@@ -375,7 +375,7 @@ Architecture design, code reviews, performance optimization, and best-practice i
  ✅  Diagnosed and resolved production infra issues (Cloudflare SSL/TLS, reverse proxies)
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,100:00D4FF&amp;height=3&amp;section=header" width="100%"/>
 
 ## 📈 Contribution Snake
 
@@ -387,7 +387,7 @@ Architecture design, code reviews, performance optimization, and best-practice i
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,100:00D4FF&amp;height=3&amp;section=header" width="100%"/>
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -400,12 +400,12 @@ Architecture design, code reviews, performance optimization, and best-practice i
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="700"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" width="700"/>
 
 <br/>
 
 > 💡 *"Clean code, scalable systems, real impact — that's what I build."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b4b,100:1a0533&height=130&section=footer&text=Open+to+Opportunities+%7C+Let%27s+Build+Something+Amazing&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a1a,50:0d1b4b,100:1a0533&amp;height=130&amp;section=footer&amp;text=Open+to+Opportunities+%7C+Let%27s+Build+Something+Amazing&amp;fontSize=16&amp;fontColor=ffffff&amp;fontAlignY=65&amp;animation=fadeIn" width="100%"/>
 
 </div>
